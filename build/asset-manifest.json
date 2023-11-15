@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5ef9cc71.css",
+    "main.js": "/static/js/main.4f90a524.js",
+    "static/media/owner.png": "/static/media/owner.742ff2ffb8e520766517.png",
+    "static/media/bannerImg.png": "/static/media/bannerImg.caa3d5e2872e84d77cf2.png",
+    "static/media/logo.png": "/static/media/logo.50e192599e22128ee75f.png",
+    "static/media/adarsh.jpg": "/static/media/adarsh.83cdade8c9e19936474a.jpg",
+    "static/media/contactImg.png": "/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "static/media/ashish.jpg": "/static/media/ashish.7b7c6144c8280ad652b7.jpg",
+    "static/media/monu.jpg": "/static/media/monu.686e1833a88cebbb2c76.jpg",
+    "static/media/testimonialOne.png": "/static/media/testimonialOne.c4706b2d1cadcb9f4daf.png",
+    "static/media/projectThree.jpeg": "/static/media/projectThree.47442baa3158613330ab.jpeg",
+    "static/media/testimonialTwo.png": "/static/media/testimonialTwo.c6df2773c486964035d9.png",
+    "static/media/projectTwo.jpg": "/static/media/projectTwo.1fabe2c8c93632187ee6.jpg",
+    "index.html": "/index.html",
+    "main.5ef9cc71.css.map": "/static/css/main.5ef9cc71.css.map",
+    "main.4f90a524.js.map": "/static/js/main.4f90a524.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ef9cc71.css",
+    "static/js/main.4f90a524.js"
+  ]
+}
